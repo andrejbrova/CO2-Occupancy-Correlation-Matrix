@@ -1,4 +1,3 @@
-# THIS IS NOT EMBEDDED LAYERS, BUT RATHER THE CORRELATION MATRIX
 import pandas as pd
 import seaborn as sn
 import matplotlib.pyplot as plt
